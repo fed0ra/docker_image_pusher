@@ -1,3 +1,1 @@
-openjdk:17-jdk-alpine
-bitnami/kubectl:1.27.5
-eclipse/ubuntu_jdk8:latest
+debezium/connect:1.9.6.Final
