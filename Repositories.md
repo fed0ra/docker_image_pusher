@@ -1,13 +1,20 @@
+docker镜像对应阿里云镜像仓库地址
 
-| docker镜像 | 阿里云镜像仓库 |
+| alpine镜像 | 阿里云镜像仓库地址 |
 | ---- | ---- |
 | alpine:3.18.4 | registry.cn-beijing.aliyuncs.com/xianxiaworld/alpine:3.18.4 |
 | alpine:3.20.0 | registry.cn-beijing.aliyuncs.com/xianxiaworld/alpine:3.20.0 |
 
+| dfimage镜像 | 阿里云镜像仓库地址 |
+| ---- | ---- |
 | alpine/dfimage:1.1 | registry.cn-beijing.aliyuncs.com/xianxiaworld/dfimage:1.1 |
 | alpine/dfimage:1.2 | registry.cn-beijing.aliyuncs.com/xianxiaworld/dfimage:1.2 |
 
+
+
 | pegleg/whaler:v1.0 | registry.cn-beijing.aliyuncs.com/xianxiaworld/whaler:v1.0 |
+
+
 | nicolaka/netshoot:v0.11 | registry.cn-beijing.aliyuncs.com/xianxiaworld/ |
 | nicolaka/netshoot:v0.13 | registry.cn-beijing.aliyuncs.com/xianxiaworld/ |
 | busybox:1.24 | registry.cn-beijing.aliyuncs.com/xianxiaworld/ |
