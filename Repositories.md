@@ -11,7 +11,7 @@ docker镜像对应阿里云镜像仓库地址
 | alpine/dfimage:1.2 | registry.cn-beijing.aliyuncs.com/xianxiaworld/dfimage:1.2 |
 
 
-
+| ---- | ---- |
 | pegleg/whaler:v1.0 | registry.cn-beijing.aliyuncs.com/xianxiaworld/whaler:v1.0 |
 
 
