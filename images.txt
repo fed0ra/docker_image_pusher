@@ -1,3 +1,5 @@
-apache/apisix-dashboard:3.0.0-alpine
-maven:3.9.8-amazoncorretto-21-al2023
-node:10.0-alpine
+minio/minio:RELEASE.2024-02-26T09-33-48Z
+gitlab/gitlab-ce:16.5.1-ce.0
+gitlab/gitlab-runner:v14.6.0
+gitlab/gitlab-runner:v16.6.0
+bitnami/gitlab-runner:16.10.0-debian-12-r2
