@@ -1,5 +1,5 @@
-minio/minio:RELEASE.2024-02-26T09-33-48Z
-gitlab/gitlab-ce:16.5.1-ce.0
-gitlab/gitlab-runner:v14.6.0
-gitlab/gitlab-runner:v16.6.0
-bitnami/gitlab-runner:16.10.0-debian-12-r2
+mysql:5.5.62 
+mysql:5.6.51
+mysql:5.7.43
+mysql:8.0.34
+mysql:8.1.0
