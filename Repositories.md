@@ -85,7 +85,12 @@ docker镜像对应阿里云镜像仓库地址
 
 | 20. mysql镜像 | 阿里云镜像仓库地址 |
 | ---- | ---- |
+| mysql:5.5.62 | registry.cn-beijing.aliyuncs.com/xianxiaworld/mysql:5.5.62  |
+| mysql:5.6.51 | registry.cn-beijing.aliyuncs.com/xianxiaworld/mysql:5.6.51 |
 | mysql:5.7.40 | registry.cn-beijing.aliyuncs.com/xianxiaworld/mysql:5.7.40 |
+| mysql:5.7.43 | registry.cn-beijing.aliyuncs.com/xianxiaworld/mysql:5.7.43 |
+| mysql:8.0.34 | registry.cn-beijing.aliyuncs.com/xianxiaworld/mysql:8.0.34 |
+| mysql:8.1.0 | registry.cn-beijing.aliyuncs.com/xianxiaworld/mysql:8.1.0 |
 
 | 21. minio镜像 | 阿里云镜像仓库地址 |
 | ---- | ---- |
