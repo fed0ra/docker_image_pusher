@@ -152,10 +152,12 @@ docker镜像对应阿里云镜像仓库地址
 | maven:3.8.5-openjdk-8 | registry.cn-beijing.aliyuncs.com/xianxiaworld/maven:3.8.5-openjdk-8 |
 | maven:3.8.6-ibmjava-8 | registry.cn-beijing.aliyuncs.com/xianxiaworld/maven:3.8.6-ibmjava-8 |
 | maven:3.9.6-eclipse-temurin-17-focal | registry.cn-beijing.aliyuncs.com/xianxiaworld/maven:3.9.6-eclipse-temurin-17-focal |
+| maven:3.9.8-amazoncorretto-21-al2023 | registry.cn-beijing.aliyuncs.com/xianxiaworld/maven:3.9.8-amazoncorretto-21-al2023 |
 
 | 36. node镜像 | 阿里云镜像仓库地址 |
 | ---- | ---- |
 | node:16-alpine | registry.cn-beijing.aliyuncs.com/xianxiaworld/node:16-alpine |
+| node:10.0-alpine | registry.cn-beijing.aliyuncs.com/xianxiaworld/node:10.0-alpine |
 
 | 37. apisix镜像 | 阿里云镜像仓库地址 |
 | ---- | ---- |
@@ -172,3 +174,9 @@ docker镜像对应阿里云镜像仓库地址
 | 40. ubuntu_jdk8镜像 | 阿里云镜像仓库地址 |
 | ---- | ---- |
 | eclipse/ubuntu_jdk8:latest | registry.cn-beijing.aliyuncs.com/xianxiaworld/ubuntu_jdk8:latest |
+
+| 41. apisix-dashboard镜像 | 阿里云镜像仓库地址 |
+| ---- | ---- |
+| apache/apisix-dashboard:3.0.0-alpine | registry.cn-beijing.aliyuncs.com/xianxiaworld/apisix-dashboard:3.0.0-alpine |
+
+
