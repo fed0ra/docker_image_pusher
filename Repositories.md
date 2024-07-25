@@ -90,6 +90,7 @@ docker镜像对应阿里云镜像仓库地址
 | 21. minio镜像 | 阿里云镜像仓库地址 |
 | ---- | ---- |
 | minio/minio:RELEASE.2023-11-01T18-37-25Z | registry.cn-beijing.aliyuncs.com/xianxiaworld/minio:RELEASE.2023-11-01T18-37-25Z |
+| minio/minio:RELEASE.2024-02-26T09-33-48Z | registry.cn-beijing.aliyuncs.com/xianxiaworld/minio:RELEASE.2024-02-26T09-33-48Z |
 
 | 22. kafka-ui镜像 | 阿里云镜像仓库地址 |
 | ---- | ---- |
@@ -178,5 +179,18 @@ docker镜像对应阿里云镜像仓库地址
 | 41. apisix-dashboard镜像 | 阿里云镜像仓库地址 |
 | ---- | ---- |
 | apache/apisix-dashboard:3.0.0-alpine | registry.cn-beijing.aliyuncs.com/xianxiaworld/apisix-dashboard:3.0.0-alpine |
+
+| 42. gitlab-ce镜像 | 阿里云镜像仓库地址 |
+| ---- | ---- |
+| gitlab/gitlab-ce:16.5.1-ce.0 | registry.cn-beijing.aliyuncs.com/xianxiaworld/gitlab-ce:16.5.1-ce.0 |
+
+| 43. gitlab-runner镜像 | 阿里云镜像仓库地址 |
+| ---- | ---- |
+| gitlab/gitlab-runner:v14.6.0 | registry.cn-beijing.aliyuncs.com/xianxiaworld/gitlab_gitlab-runner:v14.6.0 |
+| gitlab/gitlab-runner:v16.6.0 | registry.cn-beijing.aliyuncs.com/xianxiaworld/gitlab_gitlab-runner:v16.6.0 |
+
+| 44. gitlab-runner镜像 | 阿里云镜像仓库地址 |
+| ---- | ---- |
+| bitnami/gitlab-runner:16.10.0-debian-12-r2 | registry.cn-beijing.aliyuncs.com/xianxiaworld/bitnami_gitlab-runner:16.10.0-debian-12-r2 |
 
 
