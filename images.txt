@@ -1,4 +1,4 @@
-mysql:5.5.62 
+mysql:5.5.62
 mysql:5.6.51
 mysql:5.7.43
 mysql:8.0.34
