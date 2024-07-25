@@ -1,3 +1,4 @@
+| 镜像 | 阿里云镜像仓库 |
 | ---- | ---- |
 | alpine:3.18.4 | registry.cn-beijing.aliyuncs.com/xianxiaworld/alpine:3.18.4 |
 | alpine:3.20.0 | registry.cn-beijing.aliyuncs.com/xianxiaworld/alpine:3.20.0 |
