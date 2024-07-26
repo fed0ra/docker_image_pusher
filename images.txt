@@ -1,5 +1,1 @@
-mysql:5.5.62
-mysql:5.6.51
-mysql:5.7.43
-mysql:8.0.34
-mysql:8.1.0
+debezium/connect:2.7.0.Final
